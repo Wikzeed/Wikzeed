@@ -47,3 +47,31 @@ Asistente de voz en español hecha en Python, que corre 24/7 en un servidor Linu
 - Español: nativo
 - Inglés: lectura técnica y comprensión auditiva
 - Francés: básico
+
+---
+
+<details>
+<summary>🇬🇧 <b>English</b></summary>
+
+## Hi, I'm Joaquin Chandia 👋
+
+**Networking and Telecommunications Engineering** student at Duoc UC (Concepción, Chile).
+I'm interested in networking, defensive cybersecurity, IoT and automation with Python.
+
+### 🔧 What I'm working on
+
+- 🌐 **Networking:** Cisco NetAcad CCNA course (switching, routing and wireless), Packet Tracer.
+- 🛡️ **Cybersecurity:** practicing on TryHackMe with a defensive focus.
+- 🤖 **IoT and Python:** IoT algorithm programming and my main project, Yayita.
+
+### 🚀 Featured projects
+
+**[🛡️ Guard Patrol Control](https://github.com/Wikzeed/control-de-rondas)**: a web app in production for a private security company. Guards check in at each patrol point by scanning QR signs with their phones (nothing to install) and report issues with photos and audio. Supervisors track compliance on a dashboard and generate reports for clients. Secret QR tokens, server-side timestamps, HMAC-stored PINs, CSRF protection, rate limiting and security headers (CSP).
+
+**[🐱 Yayita](https://github.com/Wikzeed/yayita)**: a Spanish-speaking voice assistant in Python, running 24/7 on a Linux server at home. Offline wake word (Vosk), AI with fallbacks (Claude, Gemini and a local model with Ollama woken up by Wake-on-LAN), smart home control, computer vision (OpenCV + YOLOv8) and an action allowlist so the AI can never execute anything on its own. Firewall with nftables, remote access only through Tailscale, and 1,100+ automated tests.
+
+### 🗣️ Languages
+
+Spanish (native) · English (technical reading and listening) · French (basic)
+
+</details>
