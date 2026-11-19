@@ -9,7 +9,15 @@ Me interesan las redes, la ciberseguridad con enfoque defensivo, IoT y la automa
 - 🛡️ **Ciberseguridad:** practicando en TryHackMe con enfoque defensivo.
 - 🤖 **IoT y Python:** programación de algoritmos para IoT y mi proyecto principal, Yayita.
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
+
+### [🛡️ Control de Rondas: app web para guardias de seguridad](https://github.com/Wikzeed/control-de-rondas)
+
+App en producción para una empresa de seguridad privada: los guardias marcan sus rondas escaneando letreros QR con su celular (sin instalar nada) y reportan problemas con foto y audio. El supervisor ve el cumplimiento en un panel y saca reportes para el cliente.
+
+- QR con token secreto, hora puesta por el servidor y PIN por guardia guardado como HMAC.
+- Protección CSRF, límite de intentos, cabeceras de seguridad (CSP) y respaldo diario.
+- Python · Flask · SQLite · JavaScript (PWA).
 
 ### [🐱 Yayita: asistente de voz para un robot de escritorio](https://github.com/Wikzeed/yayita)
 
